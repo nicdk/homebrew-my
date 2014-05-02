@@ -4,6 +4,6 @@ class MacvimKaoriyaBinary < Cask
   sha256 'f45deb0f7dc399b248ff857b339542d6a3bdfee5a49bbad28ec09ad9b105bebc'
 
   homepage 'https://code.google.com/p/macvim-kaoriya/'
-  head 'https://github.com/splhack/macvim.git'
+  #head 'https://github.com/splhack/macvim.git'
   link 'MacVim.app'
 end
